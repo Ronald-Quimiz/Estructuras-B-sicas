@@ -1,2 +1,2 @@
-# Estructuras-B-sicas
+# Estructuras-Basicas
 Deberes para sobrevivir un día mas
